@@ -1,0 +1,3 @@
+﻿  Laboratorna8.1.char.cpp
+C:\Users\Compik_2\source\repos\Laboratorna8.1.char\Laboratorna8.1.char\Laboratorna8.1.char.cpp(18,13): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Laboratorna8.1.char.vcxproj -> C:\Users\Compik_2\source\repos\Laboratorna8.1.char\x64\Debug\Laboratorna8.1.char.exe

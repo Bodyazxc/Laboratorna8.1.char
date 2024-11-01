@@ -1,0 +1,5 @@
+﻿  UnitTest81сh.cpp
+C:\Users\Compik_2\source\repos\Laboratorna8.1.char\Laboratorna8.1.char\Laboratorna8.1.char.cpp(18,13): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file '/UnitTest81сh.cpp')
+  
+  UnitTest81сh.vcxproj -> C:\Users\Compik_2\source\repos\Laboratorna8.1.char\x64\Debug\UnitTest81сh.dll
